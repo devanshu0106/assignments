@@ -1,15 +1,19 @@
 Q1 WAP to print Hello world
 ans.
-class Helloworld {
-	public static void main(String arg[]){
+class Helloworld 
+{
+	public static void main(String arg[])
+	{
 		System.out.println("hello!");
-}
+	}
 }
 
 Q2 WAP to Print your Name
 ans
-class Name  {
-	public static void main(String arg[]){
-		System.out.println("Jitender thakur");
-}
+class Name  
+{
+	public static void main(String arg[])
+	{
+		System.out.println("Devanshu Sharma");
+	}
 }
